@@ -1,4 +1,4 @@
-# Babble - MERN Stack Chat Application
+# BuzzChat - MERN Stack Chat Application
 
 Babble is a full-stack chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create accounts, join chat rooms, and engage in real-time conversations with other users. With features like user authentication, group chats, and more, Babble provides a seamless and interactive chatting experience.
 
@@ -49,8 +49,8 @@ Babble is a full-stack chat application built using the MERN (MongoDB, Express.j
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ArchitKandu/Babble.git
-   cd babble
+   git clone https://github.com/soubhagyagithub/MernChatApp-BE.git
+   cd backend
    ```
 
 2. Install the server dependencies:
@@ -76,7 +76,7 @@ Babble is a full-stack chat application built using the MERN (MongoDB, Express.j
 
    - Server:
      ```bash
-     cd Babble
+     cd backend
      npm start
      ```
    - Client:
